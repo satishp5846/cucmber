@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dea81d9b-aea4-4ce0-a8d2-d9285b026ef6" name="Default Changelist" comment="Initial commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1nIWfqhrgpXOPknDEmYIjOT4th3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\satis\Desktop\Basci coding\TestingBasics\CucumberSample\Cucumber\src\test\resources\features" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Scenario: Amazon Search" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/Search.feature" />
+      <option name="GLUE" value="com.satish.stepdefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Cucumber" />
+      <option name="NAME_FILTER" value="^Amazon Search$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Amazon Search$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Amazon Search" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <option name="GLUE" value="com.satish.stepdefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Cucumber" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber Java.Scenario: Amazon Search" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dea81d9b-aea4-4ce0-a8d2-d9285b026ef6" name="Default Changelist" comment="" />
+      <created>1611078190837</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611078190837</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1611188430138</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1611188430138</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="cucumber" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="354" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611187578356">
+      <screen x="0" y="0" width="1536" height="802" />
+    </state>
+    <state x="354" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.802@0.0.1536.802" timestamp="1611187578356" />
+    <state x="574" y="85" key="#com.intellij.ide.util.MemberChooser" timestamp="1611166572469">
+      <screen x="0" y="0" width="1536" height="802" />
+    </state>
+    <state x="574" y="85" key="#com.intellij.ide.util.MemberChooser/0.0.1536.802@0.0.1536.802" timestamp="1611166572469" />
+    <state x="549" y="156" key="FileChooserDialogImpl" timestamp="1611189969241">
+      <screen x="0" y="0" width="1536" height="802" />
+    </state>
+    <state x="549" y="156" key="FileChooserDialogImpl/0.0.1536.802@0.0.1536.802" timestamp="1611189969241" />
+    <state width="1493" height="333" key="GridCell.Tab.0.bottom" timestamp="1611187920898">
+      <screen x="0" y="0" width="1536" height="802" />
+    </state>
+    <state width="1493" height="333" key="GridCell.Tab.0.bottom/0.0.1536.802@0.0.1536.802" timestamp="1611187920898" />
+    <state width="1493" height="333" key="GridCell.Tab.0.center" timestamp="1611187920898">
+      <screen x="0" y="0" width="1536" height="802" />
+    </state>
+    <state width="1493" height="333" key="GridCell.Tab.0.center/0.0.1536.802@0.0.1536.802" timestamp="1611187920898" />
+    <state width="1493" height="333" key="GridCell.Tab.0.left" timestamp="1611187920897">
+      <screen x="0" y="0" width="1536" height="802" />
+    </state>
+    <state width="1493" height="333" key="GridCell.Tab.0.left/0.0.1536.802@0.0.1536.802" timestamp="1611187920897" />
+    <state width="1493" height="333" key="GridCell.Tab.0.right" timestamp="1611187920898">
+      <screen x="0" y="0" width="1536" height="802" />
+    </state>
+    <state width="1493" height="333" key="GridCell.Tab.0.right/0.0.1536.802@0.0.1536.802" timestamp="1611187920898" />
+    <state width="1493" height="253" key="GridCell.Tab.1.bottom" timestamp="1611080013326">
+      <screen x="0" y="0" width="1536" height="802" />
+    </state>
+    <state width="1493" height="253" key="GridCell.Tab.1.bottom/0.0.1536.802@0.0.1536.802" timestamp="1611080013326" />
+    <state width="1493" height="253" key="GridCell.Tab.1.center" timestamp="1611080013326">
+      <screen x="0" y="0" width="1536" height="802" />
+    </state>
+    <state width="1493" height="253" key="GridCell.Tab.1.center/0.0.1536.802@0.0.1536.802" timestamp="1611080013326" />
+    <state width="1493" height="253" key="GridCell.Tab.1.left" timestamp="1611080013326">
+      <screen x="0" y="0" width="1536" height="802" />
+    </state>
+    <state width="1493" height="253" key="GridCell.Tab.1.left/0.0.1536.802@0.0.1536.802" timestamp="1611080013326" />
+    <state width="1493" height="253" key="GridCell.Tab.1.right" timestamp="1611080013326">
+      <screen x="0" y="0" width="1536" height="802" />
+    </state>
+    <state width="1493" height="253" key="GridCell.Tab.1.right/0.0.1536.802@0.0.1536.802" timestamp="1611080013326" />
+    <state x="277" y="0" key="SettingsEditor" timestamp="1611150620708">
+      <screen x="0" y="0" width="1536" height="802" />
+    </state>
+    <state x="277" y="0" key="SettingsEditor/0.0.1536.802@0.0.1536.802" timestamp="1611150620708" />
+    <state x="361" y="134" key="Vcs.Push.Dialog.v2" timestamp="1611188828223">
+      <screen x="0" y="0" width="1536" height="802" />
+    </state>
+    <state x="361" y="134" key="Vcs.Push.Dialog.v2/0.0.1536.802@0.0.1536.802" timestamp="1611188828223" />
+    <state x="477" y="134" width="581" height="592" key="find.popup" timestamp="1611159744144">
+      <screen x="0" y="0" width="1536" height="802" />
+    </state>
+    <state x="477" y="134" width="581" height="592" key="find.popup/0.0.1536.802@0.0.1536.802" timestamp="1611159744144" />
+    <state x="521" y="323" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1611169993501">
+      <screen x="0" y="0" width="1536" height="802" />
+    </state>
+    <state x="521" y="323" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/0.0.1536.802@0.0.1536.802" timestamp="1611169993501" />
+  </component>
+</project>
